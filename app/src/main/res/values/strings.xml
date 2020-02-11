@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobiliya</string>
+    <string name="punch_line"><![CDATA[Designed & Developed by Pratap Vhatkar for Mobiliya Pune]]></string>
+    <string name="title_activity_root">RootActivity</string>
+    <string name="enter_github_user_id">Enter GitHub User ID</string>
+    <string name="search">Search</string>
+    <string name="app_name_custom">GitHub - Mobiliya Demo App</string>
+</resources>
